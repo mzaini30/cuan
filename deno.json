@@ -3,5 +3,6 @@
     "dev": "deno run -A npm:vite --open",
     "build": "deno run -A npm:vite build",
     "build:android": "deno run -A npm:vite build --mode android --base /assets/ && deno run -A script/after-build.ts"
-  }
+  },
+  "importMap": "./map.json"
 }

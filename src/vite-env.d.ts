@@ -1,2 +1,2 @@
-/// <reference types="npm:svelte" />
-/// <reference types="npm:vite/client" />
+/// <reference types="svelte" />
+/// <reference types="vite/client" />

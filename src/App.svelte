@@ -1,5 +1,5 @@
 <script>
-  import Router from "npm:svelte-spa-router";
+  import Router from "svelte-spa-router";
   import routes from "virtual:generated-pages-svelte";
 </script>
 
