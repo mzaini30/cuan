@@ -1,5 +1,5 @@
 {
   "imports": {
-    "svelte/internal": "npm:svelte/internal.js"
+    "svelte/internal": "https://esm.sh/svelte/internal.js"
   }
 }

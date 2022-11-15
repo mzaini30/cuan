@@ -1,6 +1,30 @@
 {
   "version": "2",
-  "remote": {},
+  "remote": {
+    "https://esm.sh/svelte@3.53.1/internal": "a2f732e57983a141735359d19e96569f165309c6ba83d46bb1e45fe3a9e70641",
+    "https://esm.sh/v98/svelte@3.53.1/deno/internal.js": "e64fac6a11464de4b32ce2c015db563f537ccfe6ccdeb65d8633902c8a60d85b",
+    "https://esm.sh/v98/svelte@3.53.1/internal/index.d.ts": "d30f64458a2c216ade4fabbf7090e75e9a95878bbcea1cfbc84adc9835916e17",
+    "https://esm.sh/v98/svelte@3.53.1/types/runtime/animate/index.d.ts": "5d63fd079f9cb27e98ff66310a03c575c632a8067216e495f4a5be6a4670bb34",
+    "https://esm.sh/v98/svelte@3.53.1/types/runtime/internal/Component.d.ts": "110c3ffd65210d1a47b45f28fe9bfa7139fcebf9461ead59bf6846e627042165",
+    "https://esm.sh/v98/svelte@3.53.1/types/runtime/internal/animations.d.ts": "18dc493c405024254a143bba6e544cf6dc83ef34bc6da06da428e1813c1eeb70",
+    "https://esm.sh/v98/svelte@3.53.1/types/runtime/internal/await_block.d.ts": "79fcb2cbf7614d8c4abeaae54fb7993a2a6c4e01959d1429184167dcf2b40525",
+    "https://esm.sh/v98/svelte@3.53.1/types/runtime/internal/dev.d.ts": "da7da4b365033d92fed598d0732c1f04f4eea7ba480b84d0e5a2f68b9542eb0c",
+    "https://esm.sh/v98/svelte@3.53.1/types/runtime/internal/dom.d.ts": "fe19b59ea14bc5024d067b7cc07729dd4aba47a5a7725d7facf6e33dc596e343",
+    "https://esm.sh/v98/svelte@3.53.1/types/runtime/internal/environment.d.ts": "a749c15535bb4e69db57552e751ba3eba3f6891d2249d55064d9343520bff468",
+    "https://esm.sh/v98/svelte@3.53.1/types/runtime/internal/globals.d.ts": "9c3c45bdfa19ea5152ebb1b74f211ae4b10e98705fc058f530c419e38673caf3",
+    "https://esm.sh/v98/svelte@3.53.1/types/runtime/internal/index.d.ts": "6c4d6b151f540bbf11e00fedfb48d0e6372e8df8cd8e4dc4d8d8fef689eb8e5f",
+    "https://esm.sh/v98/svelte@3.53.1/types/runtime/internal/keyed_each.d.ts": "410e09f846cb39c5ff3e8324caa062893c9911f67cc75286aeb0f2e805e24628",
+    "https://esm.sh/v98/svelte@3.53.1/types/runtime/internal/lifecycle.d.ts": "2842e6f057b563ee416caef168b597b9ffeba001bcb21b9251abc309cc1a5fc8",
+    "https://esm.sh/v98/svelte@3.53.1/types/runtime/internal/loop.d.ts": "eed6978d287c458645fd1dcfd34013ee88ce95f2eff01f94e3b551a98c1ff878",
+    "https://esm.sh/v98/svelte@3.53.1/types/runtime/internal/scheduler.d.ts": "ceefb5a0dc94df8b1363ac2a0f16a384e45b364b7ea9c66b18ce020a7fd84fef",
+    "https://esm.sh/v98/svelte@3.53.1/types/runtime/internal/spread.d.ts": "2a83320e99b0e25af0f2528f0420a55f0f709cae58c8a9e02d92d71325021373",
+    "https://esm.sh/v98/svelte@3.53.1/types/runtime/internal/ssr.d.ts": "c922981d35437ba2bf05974283ca5f6b528f03476728f8e85306231c4fe3ab7b",
+    "https://esm.sh/v98/svelte@3.53.1/types/runtime/internal/transitions.d.ts": "f4be6202e04385527c921589d7053fe7016d229c710d78c8504dbee19e249c68",
+    "https://esm.sh/v98/svelte@3.53.1/types/runtime/internal/types.d.ts": "073525d18b25776cfbde77e3b114355d9abec0664d9e0b1b2d8f3c1d93eea755",
+    "https://esm.sh/v98/svelte@3.53.1/types/runtime/internal/utils.d.ts": "1c0db303cf6cdfae3c7c7ef0ce7990a9bdfc03f4c0f4074c42528b96f7067ba6",
+    "https://esm.sh/v98/svelte@3.53.1/types/runtime/transition/index.d.ts": "20886eb3919bee21d632ae8c2d6292f909378efc3f34fc891ebe4c436fd6f53f",
+    "https://esm.sh/v98/svelte@3.53.1/types/shared/utils/names.d.ts": "abaabb37a8627dbd2d20f2bc34dc77613b0b0fe546e0813c0d537996f78d2297"
+  },
   "npm": {
     "specifiers": {
       "@sveltejs/vite-plugin-svelte": "@sveltejs/vite-plugin-svelte@1.1.1_vite@3.2.3_svelte@3.53.1",
