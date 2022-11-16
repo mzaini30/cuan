@@ -1,30 +1,16 @@
-# Vite + Deno + Svelte
+# Cuan
 
-## Running
+Template Vite ini bersifat eksperimen. Kamu harus paham apa yang akan terjadi, sebelum menggunakan template ini.
 
-You need to have Deno v1.25.4 or later intalled to run this repo.
+## Persiapan
 
-Start a dev server:
+- Install Deno
+- Install Vite (`pnpm i -g vite`)
 
+## Commands
+
+```bash
+deno task dev
+deno task build
+deno task build:android
 ```
-$ deno task dev
-```
-
-## Deploy
-
-Build production assets:
-
-```
-$ deno task build
-```
-
-## Notes
-
-- You need to use `.mjs` or `.mts` extension for the `vite.config.[ext]` file.
-
-## Papercuts
-
-Currently there's a "papercut" for Deno users:
-
-- peer dependencies need to be referenced in `vite.config.js` - in this example
-  it is only `svelte` package that needs to be referenced

@@ -1,0 +1,4 @@
+node_modules
+vite-android.config.mjs
+dist
+.vite

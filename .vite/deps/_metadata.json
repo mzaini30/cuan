@@ -1,6 +1,6 @@
 {
   "hash": "e74eef34",
-  "browserHash": "b1724a27",
+  "browserHash": "50d9bea9",
   "optimized": {
     "svelte/animate": {
       "src": "../../node_modules/.deno/svelte@3.53.1/node_modules/svelte/animate/index.mjs",
@@ -42,6 +42,12 @@
       "src": "../../node_modules/.deno/svelte@3.53.1/node_modules/svelte/index.mjs",
       "file": "svelte.js",
       "fileHash": "99e07c47",
+      "needsInterop": false
+    },
+    "svelte-spa-router/wrap": {
+      "src": "../../node_modules/.deno/svelte-spa-router@3.3.0/node_modules/svelte-spa-router/wrap.js",
+      "file": "svelte-spa-router_wrap.js",
+      "fileHash": "f22ddd33",
       "needsInterop": false
     }
   },

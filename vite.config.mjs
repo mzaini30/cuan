@@ -1,7 +1,7 @@
 import { defineConfig } from "npm:vite";
 import { svelte } from "npm:@sveltejs/vite-plugin-svelte";
 import legacy from "npm:@vitejs/plugin-legacy";
-import pages from "npm:vite-plugin-pages-svelte";
+import pages from "npm:vite-plugin-pages-svelte@0.0.1";
 import Unocss from "npm:unocss/vite";
 import transformerDirectives from "npm:@unocss/transformer-directives";
 
