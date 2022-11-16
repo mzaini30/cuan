@@ -1,8 +1,8 @@
 # Cuan
 
-Template Vite ini bersifat eksperimen. Kamu harus paham apa yang akan terjadi, sebelum menggunakan template ini.
+This Vite template is experimental. You have to understand what will happen, before using this template.
 
-## Persiapan
+## Preparation
 
 - Install Deno
 - Install Vite (`pnpm i -g vite`)
